@@ -26,6 +26,9 @@ public class MainActivity extends AppCompatActivity implements ItemAdapter.custo
 
     ItemAdapter adapter;
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
